@@ -1,7 +1,9 @@
 # NASA-App-Challenge
 
 Author: Julien Spanneut
+
 Teamates: Drew Scott, Sean Halford, Dylan Habersetzer, Luke
+
 Created date: 1/16/2021
 
 Models the trajectory of a rocket using Unity and C#. 
